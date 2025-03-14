@@ -37,7 +37,7 @@ function btnToggleDarkMode() {
         <FontAwesomeIcon :icon="faLanguage"></FontAwesomeIcon>
         <menu class="no-wrap">
           <li v-for="locale in $i18n.availableLocales" :key="`locale-${locale}`" @click="$i18n.locale = locale"><img
-              class="small small-adjust" :src="`/flags/${locale}.svg`" />
+              class="small small-adjust" :src="`/${locale}.svg`" />
           </li>
         </menu>
       </button>

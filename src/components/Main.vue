@@ -162,7 +162,7 @@ const xcanvas = ({
               }
             }
           }
-          thaiqrpay_logo.src = '/promptpay-logos/Thai_QR_Payment_Logo-01.png';
+          thaiqrpay_logo.src = '/Thai_QR_Payment_Logo-01.png';
 
           // Promptpay Logo.
           promptpay_logo.onload = function () {
@@ -173,7 +173,7 @@ const xcanvas = ({
               }
             }
           }
-          promptpay_logo.src = '/promptpay-logos/PromptPay2.png';
+          promptpay_logo.src = '/PromptPay2.png';
 
           // QR-code and Mini ThaiQRpay Logo.
           // Mini ThaiQRpay logo should load inside qrcode_image.onload.
@@ -194,7 +194,7 @@ const xcanvas = ({
                   }
                 }
               }
-              thaiqrpay_mini_logo.src = '/promptpay-logos/Thai_QR_Payment_Logo-03.png';
+              thaiqrpay_mini_logo.src = '/Thai_QR_Payment_Logo-03.png';
             }
           }
           qrcode_image.src = qrcodeImageData;
@@ -239,7 +239,7 @@ const xcanvas = ({
               }
             }
           }
-          thaiqrpay_logo.src = '/promptpay-logos/Thai_QR_Payment_Logo-01.png';
+          thaiqrpay_logo.src = '/Thai_QR_Payment_Logo-01.png';
 
           // Promptpay Logo.
           promptpay_logo.onload = function () {
@@ -250,7 +250,7 @@ const xcanvas = ({
               }
             }
           }
-          promptpay_logo.src = '/promptpay-logos/PromptPay2.png';
+          promptpay_logo.src = '/PromptPay2.png';
 
           // QR-code and Mini ThaiQRpay Logo.
           // Same thing. (See "shop" case)
@@ -268,7 +268,7 @@ const xcanvas = ({
                   }
                 }
               }
-              thaiqrpay_mini_logo.src = '/promptpay-logos/Thai_QR_Payment_Logo-03.png';
+              thaiqrpay_mini_logo.src = '/Thai_QR_Payment_Logo-03.png';
             }
           }
           qrcode_image.src = qrcodeImageData;
@@ -299,7 +299,7 @@ const xcanvas = ({
                   }
                 }
               }
-              thaiqrpay_mini_logo.src = '/promptpay-logos/Thai_QR_Payment_Logo-03.png';
+              thaiqrpay_mini_logo.src = '/Thai_QR_Payment_Logo-03.png';
             }
           }
           qrcode_image.src = qrcodeImageData;
